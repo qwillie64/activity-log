@@ -17,6 +17,3 @@ async function main() {
 
 // Execute the main function
 main();
-
-
-// Edit 2
